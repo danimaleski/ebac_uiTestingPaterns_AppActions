@@ -1,0 +1,22 @@
+{
+  "name": "cy_appactions",
+  "version": "1.0.0",
+  "description": "exemplo de App Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions.git"
+  },
+  "author": "daniella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions/issues"
+  },
+  "homepage": "https://github.com/danimaleski/ebac_uiTestingPaterns_AppActions#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
